@@ -3,3 +3,4 @@
 .gitignore/
 .venv/
 .vscode/
+!service_account.json
