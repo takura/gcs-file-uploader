@@ -29,3 +29,7 @@ html {
       right: 0;
     }
   }
+  
+  .progressBar {
+      width: 100%
+  }
